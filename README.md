@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esdrasitq
-- 👀 I’m interested in ruby on rails, docker, AWS and ckan devloppement
+- 👀 I’m interested in python, ruby on rails, docker, AWS and ckan devloppement
 - 🌱 I’m currently learning rails and building AWS architecting solution
 - 💞️ I’m looking to collaborate on decidim and ckan project
 - 📫 How to reach me ...
